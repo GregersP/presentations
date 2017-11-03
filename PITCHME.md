@@ -1,9 +1,8 @@
-@title[Introduction]
-## The Kitchen Sink
+@title[Automatiske metoder til kvalitetskontrol af vandløb]
+## Automatiske metoder til kvalitetskontrol af vandløb
 
-##### 
 
----
+---?image=assets/bg.jpg
 
 
 ## Klik klak
