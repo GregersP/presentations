@@ -2,24 +2,71 @@
 ## Automatiske metoder til kvalitetskontrol af vandløb
 
 
----?image=http://www.landbrugnet.dk/Content/Articles/Images/Max/9e044cbd-9ef1-4737-a6dd-c75a45b63ab5.jpg
+---?image=billeder/foto-soren-holm-pedersen---Uggerby-aa.JPG
+<!-- Uggerby å - Fotograf: Søren Holm Pedersen, holmog.dk-->
 
 
-## Klik klak
-
-##### 
+## Historien om en soldats spring
 
 ---
+<!-- Sort/hvid soldat ved å -->
+
+
+### Bro eller ej
+
+---
+<!-- Sort/hvid Kampvogn og bro -->
+
+
+### Masseindhentning
+
+
+---
+<!-- Fotogrammetri-bænk -->
+
+### Hjælp fra datamater
+
+---
+<!-- Gammel datamat -->
 
 
 
+<!-- SAMMENBINDING? -->
+
+
+
+## Hvordan datamater kan hjælpe
+
+<!--
+Ensartede data
+Beregninger
+-->
+
+
+
+---
 
 
 
 ## Tak
 
-##### Tak
+
+
+---
+
+## Kilder
+
+### Billeder
+
+
+### Øvrige billeder:
+- Hans Gregers Hedegaard Petersen
+- Cecilie Hedegaard Petersen
+- Søren Holm Pedersen
+
 
 ---
 
 ## Ekstra
+
+
