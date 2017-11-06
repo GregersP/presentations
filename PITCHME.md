@@ -17,7 +17,7 @@
 ### Masseindhentning
 
 
----
+---?image=
 <!-- Gammel datamat -->
 ### Hjælp fra datamater
 
@@ -52,8 +52,8 @@ Beregninger
 SDFE - Kortforsyningen, WMS, FTP mv.
 
 ##### Billeder
-- [Bailey-bro: National Archives and Records Administration](https://da.wikipedia.org/wiki/Fil:%22Don%27t_tell_me_there%27s_anything_the_engineers_can%27t_do._We_built_bridges_where_bridges_couldn%27t_be_built._We_built..._-_NARA_-_535980.tif)
-- [](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
+- ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/wiki/Fil:%22Don%27t_tell_me_there%27s_anything_the_engineers_can%27t_do._We_built_bridges_where_bridges_couldn%27t_be_built._We_built..._-_NARA_-_535980.tif)
+- ["Stereoskop" - Friman](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
 
 ##### Øvrige billeder:
 - Hans Gregers Hedegaard Petersen
