@@ -3,21 +3,21 @@
 <!-- Uggerby å - Fotograf: Søren Holm Pedersen, holmog.dk-->
 ## Automatiske metoder til kvalitetskontrol af vandløb
 
----?image=https://upload.wikimedia.org/wikipedia/commons/b/b9/Field_of_Streams_%286997132076%29.jpg
-<!-- Sort/hvid soldat ved å -->
+---?image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Field_of_Streams_%286997132076%29.jpg"
+
 ## Historien om en soldats spring
 
----?image=billeder/National-Archives-and-Records-Administration---Bailey-bridge.jpg
+---?image="billeder/National-Archives-and-Records-Administration---Bailey-bridge.jpg"
 ### Bro eller ej
 <!-- Sort/hvid Kampvogn og bro -->
 
 
----?image=https://upload.wikimedia.org/wikipedia/commons/d/d5/Stereoskop.jpg
+---?image="https://upload.wikimedia.org/wikipedia/commons/d/d5/Stereoskop.jpg"
 <!-- Fotogrammetri-bænk -->
 ### Fotogrammetri
 
 
----?image=https://upload.wikimedia.org/wikipedia/commons/5/55/HARVEST.jpg
+---?image="https://upload.wikimedia.org/wikipedia/commons/5/55/HARVEST.jpg"
 <!-- Gammel datamat -->
 ### Hjælp fra datamater
 
