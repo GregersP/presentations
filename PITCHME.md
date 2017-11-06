@@ -1,6 +1,5 @@
 @title[Automatiske metoder til kvalitetskontrol af vandløb]
 
----?image=billeder/foto-soren-holm-pedersen---Uggerby-aa.JPG
 <!-- Uggerby å - Fotograf: Søren Holm Pedersen, holmog.dk-->
 ## Automatiske metoder til kvalitetskontrol af vandløb
 
