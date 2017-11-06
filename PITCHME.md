@@ -25,27 +25,32 @@
 
 <!-- SAMMENBINDING? -->
 
-
 ---
-## Hvordan datamater kan hjælpe
-
-<!--
-Ensartede data
-Beregninger
--->
-
+## Forudsætninger
 
 
 ---
+### Kronekanten
 
 
+---
+### 
 
+
+---
+## Æstetik
+
+
+--- 
+## 
+
+
+--- 
 ## Tak
 
 
 
 ---
-
 ## Kilder
 
 SDFE - Kortforsyningen, WMS, FTP mv.
@@ -54,7 +59,7 @@ SDFE - Kortforsyningen, WMS, FTP mv.
 - ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/wiki/Fil:%22Don%27t_tell_me_there%27s_anything_the_engineers_can%27t_do._We_built_bridges_where_bridges_couldn%27t_be_built._We_built..._-_NARA_-_535980.tif)
 - ["Stereoskop" - Friman](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
 - [NSA's "Center for Cryptologic History" in Boone](https://commons.wikimedia.org/wiki/File:HARVEST.jpg)
-- ["Field of Streams" Jasonanaggie ](https://commons.wikimedia.org/wiki/File:Field_of_Streams_(6997132076).jpg)
+- ["Field of Streams" - Jasonanaggie](https://commons.wikimedia.org/wiki/File:Field_of_Streams_(6997132076).jpg)
 
 ##### Øvrige billeder:
 - Hans Gregers Hedegaard Petersen
@@ -63,7 +68,6 @@ SDFE - Kortforsyningen, WMS, FTP mv.
 
 
 ---
-
 ## Ekstra
 
 
