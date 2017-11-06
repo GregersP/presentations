@@ -3,17 +3,16 @@
 <!-- Uggerby å - Fotograf: Søren Holm Pedersen, holmog.dk-->
 ## Automatiske metoder til kvalitetskontrol af vandløb
 
-
 ---
 <!-- Sort/hvid soldat ved å -->
 ## Historien om en soldats spring
 
----
+---?image=billeder/National-Archives-and-Records-Administration---Bailey-bridge.jpg
 ### Bro eller ej
 <!-- Sort/hvid Kampvogn og bro -->
 
 
---- 
+---?image=https://upload.wikimedia.org/wikipedia/commons/d/d5/Stereoskop.jpg
 <!-- Fotogrammetri-bænk -->
 ### Masseindhentning
 
@@ -54,7 +53,7 @@ SDFE - Kortforsyningen, WMS, FTP mv.
 
 ##### Billeder
 - [Bailey-bro: National Archives and Records Administration](https://da.wikipedia.org/wiki/Fil:%22Don%27t_tell_me_there%27s_anything_the_engineers_can%27t_do._We_built_bridges_where_bridges_couldn%27t_be_built._We_built..._-_NARA_-_535980.tif)
-
+- [](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
 
 ##### Øvrige billeder:
 - Hans Gregers Hedegaard Petersen

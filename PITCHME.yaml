@@ -1,4 +1,5 @@
 theme : White
-# footnote : "Hans Gregers Hedegaard Petersen, Septima, <span><img src="https://raw.githubusercontent.com/bjornharrtell/presentations/master/assets/images/twitter.png" alt="Twitter"></span><span><a href="https://twitter.com/GregersP">@GregersP</a></span>"
+footnote : "Hans Gregers Hedegaard Petersen, Septima"
 background : "billeder/foto-soren-holm-pedersen---Uggerby-aa.JPG"
+background-size : cover
 # logo : assets/logo.png
