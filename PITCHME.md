@@ -1,33 +1,28 @@
 @title[Automatiske metoder til kvalitetskontrol af vandløb]
-## Automatiske metoder til kvalitetskontrol af vandløb
-
 
 ---?image=billeder/foto-soren-holm-pedersen---Uggerby-aa.JPG
 <!-- Uggerby å - Fotograf: Søren Holm Pedersen, holmog.dk-->
+## Automatiske metoder til kvalitetskontrol af vandløb
 
-
-## Historien om en soldats spring
 
 ---
 <!-- Sort/hvid soldat ved å -->
-
-
-### Bro eller ej
+## Historien om en soldats spring
 
 ---
+### Bro eller ej
 <!-- Sort/hvid Kampvogn og bro -->
 
 
+--- 
+<!-- Fotogrammetri-bænk -->
 ### Masseindhentning
 
 
 ---
-<!-- Fotogrammetri-bænk -->
-
+<!-- Gammel datamat -->
 ### Hjælp fra datamater
 
----
-<!-- Gammel datamat -->
 
 
 
@@ -56,13 +51,16 @@ Beregninger
 
 ## Kilder
 
-### Billeder
+SDFE - Kortforsyningen, WMS, FTP mv.
+
+##### Billeder
+- [Bailey-bro: National Archives and Records Administration](https://da.wikipedia.org/wiki/Fil:%22Don%27t_tell_me_there%27s_anything_the_engineers_can%27t_do._We_built_bridges_where_bridges_couldn%27t_be_built._We_built..._-_NARA_-_535980.tif)
 
 
-### Øvrige billeder:
+##### Øvrige billeder:
 - Hans Gregers Hedegaard Petersen
 - Cecilie Hedegaard Petersen
-- Søren Holm Pedersen
+- Søren Holm Pedersen, holmog.dk
 
 
 ---
