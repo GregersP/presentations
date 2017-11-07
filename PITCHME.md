@@ -211,4 +211,8 @@ gregers@septima.dk
 
 +++?image="billeder/gregers---mose-transekter.png"
 
++++?image="billeder/gregers---transekt-bro.png"
 
++++?image="billeder/gregers---transekt-plot-Uggerby-aa.png"
+
++++?image="billeder/sdfe-sindal-hoeje-maaleborde.jpg"
