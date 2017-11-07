@@ -3,7 +3,7 @@
 <!-- Uggerby å - Fotograf: Søren Holm Pedersen, holmog.dk-->
 ## Automatiske metoder til kvalitetskontrol af vandløb
 
----?image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Field_of_Streams_%286997132076%29.jpg"
+---?image="billeder/Field_of_Streams.jpg"
 
 ## Historien om en soldats spring
 
