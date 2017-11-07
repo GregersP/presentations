@@ -149,6 +149,7 @@ return s
 
 +++?video="assets/finderskeepers_animation.html"
 
+<iframe src="assets/finderskeepers_animation.html" />
 
 
 ---?image="" 
