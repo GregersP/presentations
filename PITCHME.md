@@ -107,13 +107,36 @@ while (idx < len(b)-1 and idx > 0 and
 
 +++?image="billeder/gregers---kronekant.jpg"
 
+Note:
+Kronekanten
+
+
 +++?image="billeder/gregers---kronekant-og-vaadkant.jpg"
+
+Note:
+Kronekanten og "den våde kant"
 
 
 ---
 ## Æstetik og statistik
 
-Udjævning
++++
+### EWMA
+```python
+# Simple EWMA
+# l = Lambda
+    for i in range(1,len(vec)):
+        if np.isfinite(vec[i]):
+            s[i] = l * vec[i] + (1-l) * s[i-1]
+        else:
+            s[i] = s[i-1]
+    return s
+
+```
+
+
++++?image="billeder/gregers-kronekant-ewma.jpg"
+
 
 
 
