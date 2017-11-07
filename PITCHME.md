@@ -17,9 +17,8 @@
 ### Fotogrammetrisk identificeret
 
 
----?image="https://upload.wikimedia.org/wikipedia/commons/5/55/HARVEST.jpg"
++++?image="https://upload.wikimedia.org/wikipedia/commons/5/55/HARVEST.jpg"
 <!-- Gammel datamat -->
-+++
 ### Hjælp fra datamater
 
 
@@ -59,7 +58,7 @@ gregers@septima.dk
 
 <p>
 <span>
-<img src="https://raw.githubusercontent.com/bjornharrtell/presentations/master/assets/images/twitter.png" alt="Twitter">
+<img border="0" src="https://raw.githubusercontent.com/bjornharrtell/presentations/master/assets/images/twitter.png" alt="Twitter">
 </span>
 <span>
 <a href="https://twitter.com/GregersP">@GregersP</a>
@@ -67,12 +66,11 @@ gregers@septima.dk
 </p>
 
 
----
+---?image=""
 ## Kilder
-
 SDFE - Kortforsyningen, WMS, FTP mv.
 
-##### Billeder
+- 
 - ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/wiki/Fil:%22Don%27t_tell_me_there%27s_anything_the_engineers_can%27t_do._We_built_bridges_where_bridges_couldn%27t_be_built._We_built..._-_NARA_-_535980.tif)
 - ["Stereoskop" - Friman](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
 - [NSA's "Center for Cryptologic History" in Boone](https://commons.wikimedia.org/wiki/File:HARVEST.jpg)
