@@ -51,18 +51,26 @@ Hvis vi lige vender tilbage, så er det måske ikke så nemt
 ## Algoritmer
 
 
-+++?image="billeder/gregers---skitse-sektioner.png"
++++?image="billeder/gregers---skitse-sektioner.png"&size=auto 90%
 
 Note:
 Transekter langs vandløb
 
-+++?image="billeder/greger
++++?image="billeder/gregers---transekter.png"
 
 Note:
 Transekter illustreret
 
++++?image="billeder/gregers---transekt-plot-skaering-Uggerby-aa.png"
+
+Note:
+Flere transekter plottet
+
+
 +++ 
 ### Sekant
+
+
 
 +++
 ### Logisk sans / erfaring
