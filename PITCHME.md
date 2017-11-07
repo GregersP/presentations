@@ -61,7 +61,7 @@ Transekter langs vandløb
 Note:
 Transekter illustreret
 
-+++?image="billeder/gregers---transekt-plot-skaering-Uggerby-aa.png"
++++?image="billeder/gregers---transekt-plot-skaering-Uggerby-aa.png"&size=auto 90%
 
 Note:
 Flere transekter plottet
@@ -94,7 +94,7 @@ increment er enten +1 eller -1 for "et step til venstre eller højre"
 ## Den våde kant
 ```python
 # maxstigning: hvor meget må Z stige mellem buckets i b
-# maxtotal: hvor meget må Z stige fra den hidtil mindst sete værdi
+# maxtotal: hvor meget må Z stige fra den hidtil mindst sete
 min = b[idx]
 idx = idx + inc
 while (idx < len(b)-1 and idx > 0 and 
@@ -105,9 +105,9 @@ while (idx < len(b)-1 and idx > 0 and
         min = b[idx]
 ```
 
-+++?image="billeder/
++++?image="billeder/gregers---kronekant.jpg"
 
-
++++?image="billeder/gregers---kronekant-og-vaadkant.jpg"
 
 
 ---
