@@ -125,7 +125,7 @@ Kronekanten og "den våde kant"
 +++
 ### EWMA
 
-$$s_{i} = \lambda * x_{i} + (1 - \labda) * s_{i-1}$$
+$$s_{i} = \lambda * x_{i} + (1 - \lambda) * s_{i-1}$$
 
 +++
 ```python
@@ -141,8 +141,6 @@ return s
 ```
 
 +++?image="billeder/gregers-kronekant-ewma.jpg"
-
-
 
 
 ---
