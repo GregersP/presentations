@@ -56,7 +56,7 @@ Hvis vi lige vender tilbage, så er det måske ikke så nemt
 Note:
 Transekter langs vandløb
 
-+++?image="billeder/gregers---transekter.png"&size=auto 90%
++++?image="billeder/gregers---transekter.png"
 
 Note:
 Transekter illustreret
@@ -67,10 +67,27 @@ Note:
 Flere transekter plottet
 
 
-+++?gist=GregersP/770c4eb9e2163af7e549a7a47de431f6&lang=python
++++
+
+```python
+#     b
+#    /|
+#   / |
+# a --- c
+#          |bc| = (|ac| * sin(a)) / sin(pi - a - pi/2)
+#           Følger af at c er ret og sinusrelationerne
+haeldning_rad = haeldning_grad * math.pi / 180.0
+sek_under = ( bucketwidth * math.sin(haeldning_rad) ) 
+            / math.sin( math.pi - haeldning_rad - math.pi / 2.0)
+
+idx = idx + inc
+while (idx < len(b)-1 and idx > 0 and
+        b[idx] - b[idx - inc] > sek_under):
+    idx = idx + inc
+```
 
 Note:
-Find sekanten - eller noget, der ligner
+increment er enten +1 eller -1 for "et step til venstre eller højre"
 
 
 +++
