@@ -56,7 +56,7 @@ Hvis vi lige vender tilbage, så er det måske ikke så nemt
 Note:
 Transekter langs vandløb
 
-+++?image="billeder/gregers---transekter.png"
++++?image="billeder/gregers---transekter.png"&size=auto 90%
 
 Note:
 Transekter illustreret
@@ -70,7 +70,7 @@ Flere transekter plottet
 +++?gist=GregersP/770c4eb9e2163af7e549a7a47de431f6&lang=python
 
 Note:
-Find sekanten - e
+Find sekanten - eller noget, der ligner
 
 
 +++
