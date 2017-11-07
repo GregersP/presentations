@@ -131,7 +131,7 @@ $$\lambda x_{i}$$
 $$(1-\lambda) s_{i-1}$$
 
 
-$$s_{i} = \lambda x_{i}$$
+$$s\_{i} = \lambda x\_{i}$$
 
 
 
