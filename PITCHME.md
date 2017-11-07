@@ -124,8 +124,11 @@ Kronekanten og "den våde kant"
 
 +++
 ### EWMA
+$$s_{i} = \lambda x_{i} + (1-\lambda) s_{i-1}$$
 
-$$s_{i} = \lambda  x_{i} + (1 - \lambda)  s_{i-1}$$
+
+
+$$s_{i} = \lambda x_{i} + (1-\lambda) s_{i-1}$$
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
