@@ -29,7 +29,7 @@
 ## Forudsætninger
 
 
----
+---?image="billeder/wonderwoman0731-signpost.jpg"
 ### Kronekanten
 
 
@@ -60,6 +60,7 @@ SDFE - Kortforsyningen, WMS, FTP mv.
 - ["Stereoskop" - Friman](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
 - [NSA's "Center for Cryptologic History" in Boone](https://commons.wikimedia.org/wiki/File:HARVEST.jpg)
 - ["Field of Streams" - Jasonanaggie](https://commons.wikimedia.org/wiki/File:Field_of_Streams_(6997132076).jpg)
+- ["School lost and confused signpost" - Wonder woman0731, cc-by-2.0](https://www.flickr.com/photos/wildrose115/23173416364)
 
 ##### Øvrige billeder:
 - Hans Gregers Hedegaard Petersen
