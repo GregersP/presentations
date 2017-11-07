@@ -130,11 +130,12 @@ $$\lambda x_{i}$$
 
 $$(1-\lambda) s_{i-1}$$
 
-$$s_{i} \eq \lambda x_{i} + (1-\lambda) s_{i-1}$$
-
 
 $$s_{i} = \lambda x_{i}$$
 
+
+
+$$s_{i} \eq \lambda x_{i} + (1-\lambda) s_{i-1}$$
 
 +++
 ```python
