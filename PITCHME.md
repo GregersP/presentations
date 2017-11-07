@@ -32,10 +32,13 @@
 +++?image="billeder/sdfe-hillshade-fot-vandloebsmidte-uggerby-aa.jpg"
 ## Data
 
-+++?image="billeder/wonderwoman0731-signpost.jpg"
-## Kronekantsfilosofi
++++?image="billeder/sdfe-kronekant.png"
 
-+++?image=""
+Note:
+Det ser jo nemt ud
+
++++?image="billeder/wonderwoman0731-signpost.jpg"
+
 
 ---
 ## Algoritmer
