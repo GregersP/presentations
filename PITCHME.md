@@ -131,6 +131,8 @@ $$\lambda x_{i}$$
 $$(1-\lambda) s_{i-1}$$
 
 $$s_{i} \eq \lambda x_{i} + (1-\lambda) s_{i-1}$$
+
+
 $$s_i = \lambda x_i + (1-\lambda) s_{i-1}$$
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
