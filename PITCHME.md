@@ -41,7 +41,7 @@ Det ser jo nemt ud
 
 
 +++
-Nemt?
+### Nemt?
 
 Note:
 Hvis vi lige vender tilbage, så er det måske ikke så nemt
@@ -50,8 +50,16 @@ Hvis vi lige vender tilbage, så er det måske ikke så nemt
 ---
 ## Algoritmer
 
-+++
-### Projektion
+
++++?image="billeder/gregers---skitse-sektioner.png"
+
+Note:
+Transekter langs vandløb
+
++++?image="billeder/greger
+
+Note:
+Transekter illustreret
 
 +++ 
 ### Sekant
@@ -91,7 +99,7 @@ gregers@septima.dk
 
 
 ---?image=""
-## Kilder
+### Kilder
 
 - Data fra SDFE
 - ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/)
@@ -100,7 +108,7 @@ gregers@septima.dk
 - ["Field of Streams" - Jasonanaggie](https://commons.wikimedia.org/wiki/File:Field_of_Streams_(6997132076).jpg)
 - ["School lost and confused signpost" - Wonder woman0731, cc-by-2.0](https://www.flickr.com/photos/wildrose115/23173416364)
 
-####### Øvrige billeder:
+Øvrige billeder:
 - Hans Gregers Hedegaard Petersen
 - Cecilie Hedegaard Petersen
 - Søren Holm Pedersen, holmog.dk
