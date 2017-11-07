@@ -204,20 +204,31 @@ Billeder fortrinsvis af:
 ---
 ## Ekstra
 
-+++?video=billeder/asger---moelleaaen.mp4
-## Mølleåen
++++?video=billeder/asger---moelleaaen.mp4&size=auto 90%
 
-+++?video=billeder/asger---tryggevaelde-aa.mp4
-## Tryggevælde å
+Note: 
+Mølleåen
 
++++?video=billeder/asger---tryggevaelde-aa.mp4&size=auto 90%
 
-+++?image="billeder/gregers---missing-data-mose-transekter.png"
+Note:
+Tryggevælge Å
 
++++?image="billeder/gregers---missing-data-mose-transekter.png"&size=auto 90%
 
-+++?image="billeder/gregers---mose-transekter.png"
+Note:
+Data mangler / er ikke ordentligt bestemt pga no-return
 
-+++?image="billeder/gregers---transekt-bro.png"
++++?image="billeder/gregers---mose-transekter.png"&size=auto 90%
 
-+++?image="billeder/gregers---transekt-plot-Uggerby-aa.png"
+Note:
+Data interpoleret
 
-+++?image="billeder/sdfe-sindal-hoeje-maaleborde.jpg"
++++?image="billeder/gregers---transekt-bro.png"&size=auto 90%
+
+Note:
+Bro synlig i plot
+
++++?image="billeder/gregers---transekt-plot-Uggerby-aa.png"&size=auto 90%
+
++++?image="billeder/sdfe-sindal-hoeje-maaleborde.jpg"&size=auto 90%
