@@ -40,13 +40,28 @@ Det ser jo nemt ud
 +++?image="billeder/wonderwoman0731-signpost.jpg"
 
 
++++
+Nemt?
+
+Note:
+Hvis vi lige vender tilbage, så er det måske ikke så nemt
+
+
 ---
 ## Algoritmer
 
-Projektion
-Sekant
-Logisk sans
++++
+### Projektion
 
++++ 
+### Sekant
+
++++
+### Logisk sans / erfaring
+
+
++++ 
+### Råt hoppende resultat
 
 ---
 ## Æstetik og statistik
