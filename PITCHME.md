@@ -29,7 +29,7 @@
 ## Forudsætninger
 
 
-+++?image="billeder/sdfe-hillshade-uggerby-aa.jpg"
++++?image="billeder/sdfe-hillshade-fot-vandloebsmidte-uggerby-aa.jpg"
 ## Data
 
 +++?image="billeder/wonderwoman0731-signpost.jpg"
@@ -39,10 +39,15 @@
 ---
 ## Algoritmer
 
+Projektion
+Sekant
+Logisk sans
+
 
 ---
 ## Æstetik og statistik
 
+Udjævning
 
 ---
 ## Resultater
@@ -68,16 +73,15 @@ gregers@septima.dk
 
 ---?image=""
 ## Kilder
-SDFE - Kortforsyningen, WMS, FTP mv.
 
-- 
-- ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/wiki/Fil:%22Don%27t_tell_me_there%27s_anything_the_engineers_can%27t_do._We_built_bridges_where_bridges_couldn%27t_be_built._We_built..._-_NARA_-_535980.tif)
+- Data fra SDFE
+- ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/)
 - ["Stereoskop" - Friman](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
 - [NSA's "Center for Cryptologic History" in Boone](https://commons.wikimedia.org/wiki/File:HARVEST.jpg)
 - ["Field of Streams" - Jasonanaggie](https://commons.wikimedia.org/wiki/File:Field_of_Streams_(6997132076).jpg)
 - ["School lost and confused signpost" - Wonder woman0731, cc-by-2.0](https://www.flickr.com/photos/wildrose115/23173416364)
 
-##### Øvrige billeder:
+####### Øvrige billeder:
 - Hans Gregers Hedegaard Petersen
 - Cecilie Hedegaard Petersen
 - Søren Holm Pedersen, holmog.dk
