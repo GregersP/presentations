@@ -133,9 +133,8 @@ $$(1-\lambda) s_{i-1}$$
 $$s_{i} \eq \lambda x_{i} + (1-\lambda) s_{i-1}$$
 
 
-$$s_i = \lambda x_i + (1-\lambda) s_{i-1}$$
+$$s_{i} = \lambda x_{i}$$
 
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 +++
 ```python
@@ -148,10 +147,9 @@ for i in range(1,len(vec)):
         s[i] = s[i-1]
 return s
 
-```$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+```
 
 +++?image="billeder/gregers-kronekant-ewma.jpg"
-
 
 ---
 ## Resultater
