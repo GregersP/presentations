@@ -120,20 +120,25 @@ Kronekanten og "den våde kant"
 ---
 ## Æstetik og statistik
 
+
+
 +++
 ### EWMA
+
+$$s_{i} = \lambda * x_{i} + (1 - \labda) * s_{i-1}$$
+
++++
 ```python
 # Simple EWMA
 # l = Lambda
-    for i in range(1,len(vec)):
-        if np.isfinite(vec[i]):
-            s[i] = l * vec[i] + (1-l) * s[i-1]
-        else:
-            s[i] = s[i-1]
-    return s
+for i in range(1,len(vec)):
+    if np.isfinite(vec[i]):
+        s[i] = l * vec[i] + (1-l) * s[i-1]
+    else:
+        s[i] = s[i-1]
+return s
 
 ```
-
 
 +++?image="billeder/gregers-kronekant-ewma.jpg"
 
