@@ -28,12 +28,11 @@
 
 <!-- SAMMENBINDING? -->
 
-<!--
 ---
 ## Forudsætninger
--->
 
-+++
+
++++?image="billeder/sdfe-hillshade-uggerby-aa.jpg"
 ## Data
 
 +++?image="billeder/wonderwoman0731-signpost.jpg"
@@ -41,7 +40,7 @@
 
 
 ---
-###
+## 
 
 
 ---
@@ -52,7 +51,7 @@
 ##
 
 
----?image="billeder/sdfe-sindal-hoeje-maaleborde.jpg"
+---?image="" <!-- billeder/sdfe-sindal-hoeje-maaleborde.jpg-->
 ## Tak
 
 Gregers Hedegaard Petersen
