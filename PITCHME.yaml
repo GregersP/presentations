@@ -2,4 +2,5 @@ theme : black
 footnote : "Hans Gregers Hedegaard Petersen, Septima"
 background : "billeder/foto-soren-holm-pedersen---Uggerby-aa.JPG"
 background-size : cover
+mathjax : TeX-MML-AM_HTMLorMML-full
 # logo : assets/logo.png
