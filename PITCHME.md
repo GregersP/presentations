@@ -7,15 +7,13 @@
 
 ## Historien om en soldats spring
 
----?image="billeder/National-Archives-and-Records-Administration---Bailey-bridge.jpg"
-+++
++++?image="billeder/National-Archives-and-Records-Administration---Bailey-bridge.jpg"
 ### Bro eller ej
 <!-- Sort/hvid Kampvogn og bro -->
 
 
----?image="https://upload.wikimedia.org/wikipedia/commons/d/d5/Stereoskop.jpg"
++++?image="https://upload.wikimedia.org/wikipedia/commons/d/d5/Stereoskop.jpg"
 <!-- Fotogrammetri-bænk -->
-+++
 ### Fotogrammetrisk identificeret
 
 
@@ -40,18 +38,19 @@
 
 
 ---
-## 
+## Algoritmer
 
 
 ---
-## Æstetik
+## Æstetik og statistik
 
 
 ---
-##
+## Resultater
 
 
----?image="" <!-- billeder/sdfe-sindal-hoeje-maaleborde.jpg-->
+---?image="" 
+<!-- billeder/sdfe-sindal-hoeje-maaleborde.jpg-->
 ## Tak
 
 Gregers Hedegaard Petersen
