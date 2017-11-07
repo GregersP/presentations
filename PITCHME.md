@@ -35,6 +35,7 @@
 +++?image="billeder/wonderwoman0731-signpost.jpg"
 ## Kronekantsfilosofi
 
++++?image=""
 
 ---
 ## Algoritmer
