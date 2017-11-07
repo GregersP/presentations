@@ -67,10 +67,34 @@ Note:
 Flere transekter plottet
 
 
-+++ 
-### Sekant
++++
 
+```
+# Søger efter det sted, hvor hældningen aftager. startende ved idx og i retningen inc (-1 for venstre eller 1 for højre)
+# Aftagende hældning er når sekanten er under 12 grader i retningen
+def soeg_aftagende_haeldning(b, idx, inc, bucketwidth = 0.4, haeldning_grad = 12):
+    if( inc != -1 and inc != 1):
+        raise ValueError('inc kan kun være -1 eller +1')
+    if idx + inc < 0:
+        return 0
+    elif idx + inc >= len(b):
+        return len(b)-1
+    #     b
+    #    /|
+    #   / |
+    # a --- c
+    #          |bc| = (|ac| * sin(a)) / sin(pi - a - pi/2)
+    #           Følger af at c er ret og sinusrelationerne
+    haeldning_rad = haeldning_grad * math.pi / 180.0
+    sek_under = ( bucketwidth * math.sin(haeldning_rad) ) / math.sin( math.pi - haeldning_rad - math.pi / 2.0)
 
+    idx = idx + inc
+    while (idx < len(b)-1 and idx > 0 and b[idx] - b[idx - inc] > sek_under):
+        idx = idx + inc
+
+    # Vi afbryder når index er kommet een for langt
+    return idx - inc
+```
 
 +++
 ### Logisk sans / erfaring
