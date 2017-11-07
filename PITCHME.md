@@ -77,8 +77,8 @@ Flere transekter plottet
 #          |bc| = (|ac| * sin(a)) / sin(pi - a - pi/2)
 #           Følger af at c er ret og sinusrelationerne
 haeldning_rad = haeldning_grad * math.pi / 180.0
-sek_under = ( bucketwidth * math.sin(haeldning_rad) ) 
-            / math.sin( math.pi - haeldning_rad - math.pi / 2.0)
+sek_under = (bucketwidth * math.sin(haeldning_rad)) 
+            /math.sin(math.pi - haeldning_rad - math.pi/2.0)
 
 idx = idx + inc
 while (idx < len(b)-1 and idx > 0 and
