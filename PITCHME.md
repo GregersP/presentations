@@ -171,9 +171,6 @@ gregers@septima.dk
 
 <p>
 <span>
-<img border="0" src="https://raw.githubusercontent.com/bjornharrtell/presentations/master/assets/images/twitter.png" alt="Twitter">
-</span>
-<span>
 <a href="https://twitter.com/GregersP">@GregersP</a>
 </span>
 </p>
@@ -204,12 +201,14 @@ Billeder fortrinsvis af:
 ---
 ## Ekstra
 
-+++?video=billeder/asger---moelleaaen.mp4&size=auto 90%
++++
+![Video](billeder/asger---moelleaaen.mp4)
 
 Note: 
 Mølleåen
 
-+++?video=billeder/asger---tryggevaelde-aa.mp4&size=auto 90%
++++
+![Video](billeder/asger---tryggevaelde-aa.mp4)
 
 Note:
 Tryggevælge Å
