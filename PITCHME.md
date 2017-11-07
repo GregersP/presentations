@@ -146,10 +146,15 @@ return s
 ---
 ## Resultater
 
+[Video](https://raw.githubusercontent.com/GregersP/presentations/kortdage17/assets/finderskeepers_animation.html)
 
-+++?video="assets/finderskeepers_animation.html"
+Note:
+Videoen viser, hvordan vi bestemmer våd kant, og kronekant.
 
-<iframe src="assets/finderskeepers_animation.html" />
++++
+<if
+
++++?image=""
 
 
 ---?image="" 
