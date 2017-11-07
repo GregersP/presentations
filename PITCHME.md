@@ -146,15 +146,19 @@ return s
 ---
 ## Resultater
 
-[Video](https://raw.githubusercontent.com/GregersP/presentations/kortdage17/assets/finderskeepers_animation.html)
+[Video](file:///home/gregers/Git/GregersP_presentations/assets/finderskeepers_animation.html)
 
 Note:
 Videoen viser, hvordan vi bestemmer våd kant, og kronekant.
 
-+++
-<if
++++=image="billeder/gregers---bredder.jpg"
 
-+++?image=""
+
++++?image="billeder/gregers---output.jpg"
+
+
++++?image="billeder/azz-bad-harddrive.jpeg"
+300GB data
 
 
 ---?image="" 
@@ -184,6 +188,7 @@ gregers@septima.dk
 - [NSA's "Center for Cryptologic History" in Boone](https://commons.wikimedia.org/wiki/File:HARVEST.jpg)
 - ["Field of Streams" - Jasonanaggie](https://commons.wikimedia.org/wiki/File:Field_of_Streams_(6997132076).jpg)
 - ["School lost and confused signpost" - Wonder woman0731, cc-by-2.0](https://www.flickr.com/photos/wildrose115/23173416364)
+- ["Harddrive" - Azz bad, CC0](https://www.pexels.com/photo/analogue-business-close-up-computer-117729/)
 
 Øvrige billeder:
 - Hans Gregers Hedegaard Petersen
@@ -193,5 +198,17 @@ gregers@septima.dk
 
 ---
 ## Ekstra
+
++++?video=billeder/asger---moelleaaen.mp4
+## Mølleåen
+
++++?video=billeder/asger---tryggevaelde-aa.mp4
+## Tryggevælde å
+
+
++++?image="billeder/gregers---missing-data-mose-transekter.png"
+
+
++++?image="billeder/gregers---mose-transekter.png"
 
 
