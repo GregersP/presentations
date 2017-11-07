@@ -8,46 +8,65 @@
 ## Historien om en soldats spring
 
 ---?image="billeder/National-Archives-and-Records-Administration---Bailey-bridge.jpg"
++++
 ### Bro eller ej
 <!-- Sort/hvid Kampvogn og bro -->
 
 
 ---?image="https://upload.wikimedia.org/wikipedia/commons/d/d5/Stereoskop.jpg"
 <!-- Fotogrammetri-bænk -->
-### Fotogrammetri
++++
+### Fotogrammetrisk identificeret
 
 
 ---?image="https://upload.wikimedia.org/wikipedia/commons/5/55/HARVEST.jpg"
 <!-- Gammel datamat -->
++++
 ### Hjælp fra datamater
 
 
 
 <!-- SAMMENBINDING? -->
 
+<!--
 ---
 ## Forudsætninger
+-->
 
++++
+## Data
 
----?image="billeder/wonderwoman0731-signpost.jpg"
-### Kronekanten
++++?image="billeder/wonderwoman0731-signpost.jpg"
+## Kronekantsfilosofi
 
 
 ---
-### 
+###
 
 
 ---
 ## Æstetik
 
 
---- 
-## 
+---
+##
 
 
---- 
+---?image="billeder/sdfe-sindal-hoeje-maaleborde.jpg"
 ## Tak
 
+Gregers Hedegaard Petersen
+
+gregers@septima.dk
+
+<p>
+<span>
+<img src="https://raw.githubusercontent.com/bjornharrtell/presentations/master/assets/images/twitter.png" alt="Twitter">
+</span>
+<span>
+<a href="https://twitter.com/GregersP">@GregersP</a>
+</span>
+</p>
 
 
 ---
