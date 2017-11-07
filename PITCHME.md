@@ -189,7 +189,7 @@ Billeder fortrinsvis af:
 - Cecilie Hedegaard Petersen
 - Søren Holm Pedersen, holmog.dk
 
-+++
++++?image=""
 ### Andre billeder
 - ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/)
 - ["Stereoskop" - Friman](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
