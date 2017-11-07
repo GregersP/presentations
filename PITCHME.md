@@ -90,21 +90,37 @@ while (idx < len(b)-1 and idx > 0 and
 Note:
 increment er enten +1 eller -1 for "et step til venstre eller højre"
 
-
 +++
-### Logisk sans / erfaring
+## Den våde kant
+```python
+# maxstigning: hvor meget må Z stige mellem buckets i b
+# maxtotal: hvor meget må Z stige fra den hidtil mindst sete værdi
+min = b[idx]
+idx = idx + inc
+while (idx < len(b)-1 and idx > 0 and 
+       b[idx] - b[idx - inc] < maxstigning and 
+       b[idx] < min + maxtotal ):
+    idx = idx + inc
+    if(b[idx] < min):
+        min = b[idx]
+```
+
++++?image="billeder/
 
 
-+++ 
-### Råt hoppende resultat
+
 
 ---
 ## Æstetik og statistik
 
 Udjævning
 
+
+
 ---
 ## Resultater
+
+
 
 
 ---?image="" 
