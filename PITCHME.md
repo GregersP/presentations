@@ -183,6 +183,14 @@ gregers@septima.dk
 ### Kilder
 
 - Data fra SDFE
+
+Billeder fortrinsvis af:
+- Hans Gregers Hedegaard Petersen
+- Cecilie Hedegaard Petersen
+- Søren Holm Pedersen, holmog.dk
+
++++
+### Andre billeder
 - ["Bailey-bro" - National Archives and Records Administration](https://da.wikipedia.org/)
 - ["Stereoskop" - Friman](https://commons.wikimedia.org/wiki/File:Stereoskop.jpg)
 - [NSA's "Center for Cryptologic History" in Boone](https://commons.wikimedia.org/wiki/File:HARVEST.jpg)
@@ -190,10 +198,7 @@ gregers@septima.dk
 - ["School lost and confused signpost" - Wonder woman0731, cc-by-2.0](https://www.flickr.com/photos/wildrose115/23173416364)
 - ["Harddrive" - Azz bad, CC0](https://www.pexels.com/photo/analogue-business-close-up-computer-117729/)
 
-Øvrige billeder:
-- Hans Gregers Hedegaard Petersen
-- Cecilie Hedegaard Petersen
-- Søren Holm Pedersen, holmog.dk
+
 
 
 ---
