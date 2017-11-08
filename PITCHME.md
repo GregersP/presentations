@@ -158,7 +158,7 @@ Videoen viser, hvordan vi bestemmer våd kant, og kronekant.
 
 
 +++?image="billeder/azz-bad-harddrive.jpeg"
-300GB data
+<span style="color:black">300GB data</span>
 
 
 ---?image="" 
