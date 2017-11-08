@@ -127,6 +127,8 @@ Kronekanten og "den våde kant"
 
 $$s\_{i} = \lambda x\_{i} + (1-\lambda) s\_{i-1}$$
 
++++?image="billeder/ryde-EWMA.png"
+
 
 +++
 ```python
@@ -158,7 +160,9 @@ Videoen viser, hvordan vi bestemmer våd kant, og kronekant.
 
 
 +++?image="billeder/azz-bad-harddrive.jpeg"
-<span style="color:black">300GB data</span>
+
+Note:
+300GB data
 
 
 ---?image="" 
@@ -195,7 +199,7 @@ Billeder fortrinsvis af:
 - ["School lost and confused signpost" - Wonder woman0731, cc-by-2.0](https://www.flickr.com/photos/wildrose115/23173416364)
 - ["Harddrive" - Azz bad, CC0](https://www.pexels.com/photo/analogue-business-close-up-computer-117729/)
 
-
+- ["EWMA" - Kevin Ryde](https://commons.wikimedia.org/wiki/File:Exponential_moving_average_weights_N%3D15.png)
 
 
 ---
